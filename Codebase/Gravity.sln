@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity", "Gravity\Gravity.csproj", "{75CF54E5-41EA-47F5-8431-758C25B1F0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CF54E5-41EA-47F5-8431-758C25B1F0D3}.Debug|x86.ActiveCfg = Debug|x86
+		{75CF54E5-41EA-47F5-8431-758C25B1F0D3}.Debug|x86.Build.0 = Debug|x86
+		{75CF54E5-41EA-47F5-8431-758C25B1F0D3}.Release|x86.ActiveCfg = Release|x86
+		{75CF54E5-41EA-47F5-8431-758C25B1F0D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

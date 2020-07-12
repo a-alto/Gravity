@@ -1,0 +1,14 @@
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.frmMain.resources
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.Properties.Resources.resources
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.csproj.GenerateResource.Cache
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.exe
+C:\Users\st7215\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.pdb
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.exe
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.pdb
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.frmMain.resources
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.Properties.Resources.resources
+C:\Users\utente\Desktop\Gravity\Gravity\Gravity\obj\x86\Debug\Gravity.csproj.GenerateResource.Cache
